@@ -1,6 +1,6 @@
 # freitas_R_My_ToDo_List
 
-Smash Bros Characters! Click on an image to learn more.
+Click to complete a task.
 
 ## Installation
 
